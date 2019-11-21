@@ -2,6 +2,7 @@ package sboot;
 
 import org.apache.wicket.Page;
 import org.apache.wicket.protocol.http.WebApplication;
+import sboot.web.HomePage;
 
 public class MyAppWicketConfig extends WebApplication {
 
